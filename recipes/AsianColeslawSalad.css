@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+ul {
+    font-family: "Monaco", Monospace;
+    color: rgb(87, 28, 28);
+}

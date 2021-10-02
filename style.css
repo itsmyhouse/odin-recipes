@@ -1,0 +1,18 @@
+body {
+    font-family: Tahoma, sans-serif;
+}
+
+ul {
+    background-color: #002afa;
+}
+
+li {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: white;    
+}
+
+a {
+    
+    color: white;
+}
